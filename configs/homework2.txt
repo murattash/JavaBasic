@@ -1,0 +1,7 @@
+#I am storing into a new file
+#Sat Aug 14 12:05:56 EDT 2021
+password=secretpassword
+url=www.neotechacademy.com
+browser=chrome 
+phonenumber=412342412
+username=Admin
